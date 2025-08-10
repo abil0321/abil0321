@@ -104,9 +104,7 @@
  ### 📈 Activity Graph
  
  ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abil0321&theme=react-dark)
-
-<img src="https://raw.githubusercontent.com/abil0321/abil0321/output/snake.svg" alt="Snake animation" />
-
+ 
 ###
 
 <picture>
