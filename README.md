@@ -1,5 +1,5 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&fontAlign=100&fontAlignY=0&strokeWidth=0 />
+   <img width=100% src=https://8upload.com/image/689802291ac78/Black_and_Red_Tech_Data_Analyst_LinkedIn_Banner.png?type=waving&height=300&color=gradient&fontAlign=100&fontAlignY=0&strokeWidth=0 />
 </div>
 
 <h3 align="center">
