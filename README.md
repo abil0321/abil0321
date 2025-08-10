@@ -103,13 +103,19 @@
  
  ### 📈 Activity Graph
  
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abil0321&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abil0321&theme=react-dark)
+
+<img src="https://raw.githubusercontent.com/abil0321/abil0321/output/snake.svg" alt="Snake animation" />
+
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abil0321/abil0321/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abil0321/abil0321/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abil0321/abil0321/output/pacman-contribution-graph.svg">
 </picture>
+
+###
 
 ### 📊 Most Used Language
 
