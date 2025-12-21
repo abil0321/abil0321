@@ -79,7 +79,6 @@
  <div align=center>
 
 ![](https://github-readme-stats.vercel.app/api?username=abil0321&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abil0321&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&border_radius=20&hide_border=false&order=2" alt="languages graph"  />
 
 <br>
 
