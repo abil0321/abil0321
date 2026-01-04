@@ -106,7 +106,7 @@
 
 <br />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abil0321&show_icons=true&theme=tokyonight&hide_border=true)
+[![Abil's's GitHub stats](https://github-readme-stats.vercel.app/api?username=abil0321)](https://github.com/abil0321/github-readme-stats)
 
 <br />
  
