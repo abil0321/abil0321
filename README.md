@@ -101,24 +101,22 @@
  </div>
  
 
-<div align="center">
+### 📈 Activity Graph
 
-  <h3>📈 Activity Graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abil0321&theme=react-dark" alt="Activity Graph" />
+![Abil's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abil0321&theme=react-dark)
 
-  <br/><br/>
+<br />
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abil0321&show_icons=true&theme=tokyonight&hide_border=true)
+[![Abil's's GitHub stats](https://github-readme-stats.vercel.app/api?username=abil0321)](https://github.com/abil0321/github-readme-stats)
 
-  <br/><br/>
+<br />
+ 
+<picture>
+  <source media="(prefers-color-scheme: dark)" height="200" srcset="https://raw.githubusercontent.com/abil0321/abil0321/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abil0321/abil0321/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abil0321/abil0321/output/pacman-contribution-graph.svg">
+</picture>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abil0321/abil0321/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abil0321/abil0321/output/pacman-contribution-graph.svg">
-    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/abil0321/abil0321/output/pacman-contribution-graph.svg" width="100%">
-  </picture>
-
-</div>
 
 ### 📊 Most Used Language
 
