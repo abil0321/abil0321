@@ -92,8 +92,8 @@
   
  </div>
  
- <details> 
-  <summary><h2>📊 Stats and Activity</h2></summary>
+ <div align=center> 
+  <summary><h2>📊 Stats </h2></summary>
 
   <h3>🔥 Streak Stats</h3>
 
@@ -116,23 +116,11 @@
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+  <!-- https://github.com/abil0321/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="abil0321's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=abil0321&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/abil0321/github-readme-activity-graph"><img alt="abil0321's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=abil0321&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-  <h3>⚡ Recent GitHub Activity</h3>
-
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <!--START_SECTION:activity-->
-
-1. ❌ Merged PR [#1](https://github.com/abil0321/whatsapp-group-wrapped/pull/1) in [abil0321/whatsapp-group-wrapped](https://github.com/abil0321/whatsapp-group-wrapped)
-2. 💪 Opened PR [#1](https://github.com/abil0321/whatsapp-group-wrapped/pull/1) in [abil0321/whatsapp-group-wrapped](https://github.com/abil0321/whatsapp-group-wrapped)
-3. 🗣 Commented on [#17](https://github.com/abil0321/abil0321/issues/17) in [abil0321/abil0321](https://github.com/abil0321/abil0321)
-4. ❌ Closed PR [#203](https://github.com/abil0321/github-readme-youtube-cards/pull/203) in [abil0321/github-readme-youtube-cards](https://github.com/abil0321/github-readme-youtube-cards)
-5. ❌ Closed PR [#205](https://github.com/abil0321/github-readme-youtube-cards/pull/205) in [abil0321/github-readme-youtube-cards](https://github.com/abil0321/github-readme-youtube-cards)
-<!--END_SECTION:activity-->
-
-</details>
+</div>
  
 
 ### 📈 Activity Graph
