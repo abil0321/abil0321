@@ -100,15 +100,15 @@
 
  </div>
  
- ### 📈 Activity Graph
- 
- ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abil0321&theme=react-dark)
- 
- <br clear="both">
- 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abil0321&show_icons=true&theme=tokyonight)
+### 📈 Activity Graph
 
- <br clear="both">
+![Abil's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abil0321&theme=react-dark)
+
+<br />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abil0321&show_icons=true&theme=tokyonight&hide_border=true)
+
+<br />
  
 <picture>
   <source media="(prefers-color-scheme: dark)" height="200" srcset="https://raw.githubusercontent.com/abil0321/abil0321/output/pacman-contribution-graph-dark.svg">
