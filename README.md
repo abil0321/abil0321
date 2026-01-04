@@ -1,17 +1,14 @@
 <div align="center">
-   <img width=100% src="https://8upload.com/image/689802291ac78/Black_and_Red_Tech_Data_Analyst_LinkedIn_Banner.png?type=waving&height=300&color=gradient&fontAlign=100&fontAlignY=0&strokeWidth=0" />
+   <img width=100% src=https://8upload.com/image/689802291ac78/Black_and_Red_Tech_Data_Analyst_LinkedIn_Banner.png?type=waving&height=300&color=gradient&fontAlign=100&fontAlignY=0&strokeWidth=0 />
 </div>
 
-<br/>
-
 <h3 align="center">
-  Hi, I'm Muhammad Salsabil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hi, I'm Muhammad Salsabil
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
-  <a href="https://github.com/abil0321/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Administrative%20Staff;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&font=Fira%20Code&center=true&width=440&height=45">
-  </a>
+  <a href="https://github.com/abil0321/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Administrative%20Staff;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 
 <div align="center">
@@ -30,32 +27,13 @@
 
 <br/>
 
-<div align="center">
-  <h3>🛠️ Languages and Tools</h3>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-</div>
-
-<br/>
-
----
-### 👨‍💻 About Me
-
-- 🔭 As a **Web Developer & Administrative Staff**, I'm constantly learning and exploring new technologies.
-- 💬 Ask me about **Web Apps, Office Administration, and Reporting Tools**.
-- 🌱 I’m currently diving deeper into **Fullstack Development**.
-- ⚡ Fun fact: I love automating boring administrative tasks with code!
-
-<br/>
-
 <p align="center">
-  <a href="https://github.com/abil0321/"><img src="https://visitor-badge.laobi.icu/badge?page_id=abil0321.visitor-badge" alt="Visitor Badge"></a>
+  <a href="https://github.com/abil0321/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=abil0321.visitor-badge"></a>
 </p>
+
+- 👨‍💻 As an Web Developer & Administrative Staff, I'm constantly learning and exploring new technologies to improve my skills.
+- 💬 Ask me about my experience with Web Application Development, Daily Office and Web Application Report.
+- 🌱 I’m diving deeper into _[Web Application Development](https://www.codepolitan.com/)_ and _[Administrative Thing](https://kelas.work/)_
 
 ## 📊 Profile Statistics
 
