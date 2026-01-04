@@ -107,7 +107,7 @@
 
 <br />
 
-[![Abil's's GitHub stats](https://github-readme-stats.vercel.app/api?username=abil0321)](https://github.com/abil0321/github-readme-stats)
+![Abil's's GitHub stats](https://github-readme-stats.vercel.app/api?username=abil0321)](https://github.com/abil0321/github-readme-stats)
 
 <br />
  
