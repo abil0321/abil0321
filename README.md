@@ -23,12 +23,12 @@
 
 ## 📊 Profile Statistics
 
- <div align=center>
-
-![](https://github-readme-stats.vercel.app/api?username=abil0321&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-
-<br>
-
+<div align=center>
+   <p>
+     Welcome to my activity dashboard! 🚀 Here you can track my coding habits 
+     and see how I keep my streaks alive. I believe that small, consistent progress 
+     every day leads to significant results over time.
+   </p>
 </div>
  
  ### 💳 Github Profile Summary Card
