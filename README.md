@@ -92,9 +92,7 @@
   
  </div>
  
- <div align=center> 
-  <summary><h2>📊 Stats </h2></summary>
-
+ <div>
   <h3>🔥 Streak Stats</h3>
 
   <!-- GitHub Readme Streak Stats - https://github.com/abil0321/github-readme-streak-stats -->
