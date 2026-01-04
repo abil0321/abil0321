@@ -43,7 +43,7 @@
 
 ## 📊 Profile Statistics
 
-<div align=center>
+<div>
    <p>
      Welcome to my activity dashboard! 🚀 Here you can track my coding habits 
      and see how I keep my streaks alive. I believe that small, consistent progress 
