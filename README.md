@@ -35,9 +35,11 @@
 
 - 👨‍💻 As an Web Developer & Administrative Staff, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Web Application Development, Daily Office and Web Application Report.
-- 🌱 I’m diving deeper into _[Web Application Development](https://www.codepolitan.com/)_ and _[Administrative Thing](https://kelas.work/)_
+- 🌱 I’m diving deeper into _[Web Application Development](https://www.codepolitan.com/)_ and _[Administrative Things](https://kelas.work/)_
 
 ---
+
+<br/>
 
 ## 📊 Profile Statistics
 
