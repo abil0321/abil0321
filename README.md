@@ -70,10 +70,6 @@
 ![Abil's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abil0321&theme=react-dark)
 
 <br />
-
-![Abil's's GitHub stats](https://github-readme-stats.vercel.app/api?username=abil0321)](https://github.com/abil0321/github-readme-stats)
-
-<br />
  
 <picture>
   <source media="(prefers-color-scheme: dark)" height="200" srcset="https://raw.githubusercontent.com/abil0321/abil0321/output/pacman-contribution-graph-dark.svg">
