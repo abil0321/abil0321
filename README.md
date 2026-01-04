@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Administrative%20Staff;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+  <a href="https://github.com/abil0321/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Administrative%20Staff;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 
 <p align="center">
@@ -92,13 +92,47 @@
   
  </div>
  
- ### ⏱ Streak Stats
- 
- <div align=center>
-  
- [![GitHub Streak](https://streak-stats.demolab.com/?user=abil0321)]
+ <details> 
+  <summary><h2>📊 Stats and Activity</h2></summary>
 
- </div>
+  <h3>🔥 Streak Stats</h3>
+
+  <!-- GitHub Readme Streak Stats - https://github.com/abil0321/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/abil0321/github-readme-streak-stats">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="abil0321's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=abil0321&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+    </a>
+    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+  </p>
+
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/abil0321/github-readme-stats -->
+
+  <a href="https://github.com/abil0321/github-readme-stats"><img alt="abil0321's Github Stats" src="https://abil0321-github-readme-stats.vercel.app/api/?username=abil0321&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/abil0321/github-readme-stats"><img alt="abil0321's Top Languages" src="https://abil0321-github-readme-stats.vercel.app/api/top-langs/?username=abil0321&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="abil0321's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=abil0321&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+  <h3>⚡ Recent GitHub Activity</h3>
+
+  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
+  <!--START_SECTION:activity-->
+
+1. ❌ Merged PR [#1](https://github.com/abil0321/whatsapp-group-wrapped/pull/1) in [abil0321/whatsapp-group-wrapped](https://github.com/abil0321/whatsapp-group-wrapped)
+2. 💪 Opened PR [#1](https://github.com/abil0321/whatsapp-group-wrapped/pull/1) in [abil0321/whatsapp-group-wrapped](https://github.com/abil0321/whatsapp-group-wrapped)
+3. 🗣 Commented on [#17](https://github.com/abil0321/abil0321/issues/17) in [abil0321/abil0321](https://github.com/abil0321/abil0321)
+4. ❌ Closed PR [#203](https://github.com/abil0321/github-readme-youtube-cards/pull/203) in [abil0321/github-readme-youtube-cards](https://github.com/abil0321/github-readme-youtube-cards)
+5. ❌ Closed PR [#205](https://github.com/abil0321/github-readme-youtube-cards/pull/205) in [abil0321/github-readme-youtube-cards](https://github.com/abil0321/github-readme-youtube-cards)
+<!--END_SECTION:activity-->
+
+</details>
  
 
 ### 📈 Activity Graph
