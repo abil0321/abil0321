@@ -96,7 +96,7 @@
  
  <div align=center>
   
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abil0321&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=abil0321)](https://git.io/streak-stats)
 
  </div>
  
